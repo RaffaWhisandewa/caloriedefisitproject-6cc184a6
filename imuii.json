@@ -1,0 +1,11 @@
+{
+  "name": "caloriedefisit",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "caloriedefisit",
+  "email": "raffawhisandewa@gmail.com",
+  "secretKey": "imuii_a2617898c2b8f169848fb65118bb9b3718d0a44a34b6617087ad5c8fa065581f",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/caloriedefisit-fddbf6d9.git"
+}
